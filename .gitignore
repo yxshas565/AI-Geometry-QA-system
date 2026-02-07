@@ -1,0 +1,15 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Generated / cache
+data/processed/
